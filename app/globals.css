@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.box-shadow{
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.css-1gfq95h{
+  width:80% !important;
+}
+.css-79ws1d-MuiModal-root {
+    z-index : 0 !important;
+
+}
